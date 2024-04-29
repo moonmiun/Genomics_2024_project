@@ -1,4 +1,4 @@
-# Qualimap reports (Flavia Leotta and Denisa Sufaj)
+# Additional materials (Flavia Leotta and Denisa Sufaj)
 ## Welcome to this repository with the additional material for the Genomics project. 
 ### Every qualimap report file can be downloaded from the main folder, but to quickly access them we recommend using these links: 
 [Case 587](https://moonmiun.github.io/Genomics_2024_project/Qualimap%20reports/587report.html) 
@@ -12,7 +12,7 @@
 [Case 744](https://moonmiun.github.io/Genomics_2024_project/Qualimap%20reports/744report.html)
 [Case 749](https://moonmiun.github.io/Genomics_2024_project/Qualimap%20reports/749report.html)
 ### Here there are UCSC Genome Browser screenshots for every case:
-[Case 587](https://moonmiun.github.io/Genomics_2024_project/Qualimap%20reports/587report.html) 
+[Case 587](https://moonmiun.github.io/Genomics_2024_project/UCSC%20Genome%20Browser%20screenshots/Case587_UCSC.png)
 [Case 591](https://moonmiun.github.io/Genomics_2024_project/Qualimap%20reports/591report.html)
 [Case 625](https://moonmiun.github.io/Genomics_2024_project/Qualimap%20reports/625report.html)
 [Case 626](https://moonmiun.github.io/Genomics_2024_project/Qualimap%20reports/626report.html)
