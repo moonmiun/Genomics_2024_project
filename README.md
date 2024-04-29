@@ -1,7 +1,7 @@
 # Qualimap reports (Flavia Leotta and Denisa Sufaj)
 ## Welcome to this repository with the additional material for the Genomics project. 
 ### Every qualimap report file can be downloaded from the main folder, but to quickly access them we recommend using these links: 
-[Case 587](https://htmlpreview.github.io/?https://github.com/moonmiun/Genomics_2024_project/blob/main/Qualimap%20reports/587report.html) 
+[Case 587](https://github.com/moonmiun/Genomics_2024_project/blob/main/Qualimap%20reports/587report.html) 
 [Case 591](https://htmlpreview.github.io/?https://github.com/moonmiun/Genomics_2024_project/blob/main/Qualimap%20reports/591report.html)
 [Case 625](https://htmlpreview.github.io/?https://github.com/moonmiun/Genomics_2024_project/blob/main/Qualimap%20reports/625report.html)
 [Case 626](https://htmlpreview.github.io/?https://github.com/moonmiun/Genomics_2024_project/blob/main/Qualimap%20reports/626report.html)
